@@ -1,3 +1,5 @@
+hello world!! Hello Hexlet!!
+
 Install git:
 https://github.com/Hexlet/ru-instructions/blob/main/git.md
 
