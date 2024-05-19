@@ -1,6 +1,7 @@
 {
   "name": "hexlet-js-git",
   "version": "1.0.0",
+  "type": "module",
   "description": "hello world!! Hello Hexlet!!",
   "main": "index.js",
   "scripts": {
